@@ -1,0 +1,22 @@
+{
+  "name": "blurts-schema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "blurts-schema": "node index"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "ajv-formats": "^2.1.1",
+    "axios": "^1.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
