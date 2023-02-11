@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const axios = require("axios");
 const Ajv = require("ajv");
 const addFormats = require("ajv-formats");
